@@ -1,6 +1,6 @@
 
 
-### Key Points:
+### Key Points
 
 #### 1. **Learning Objectives:**
    - Understand basic user administration.
